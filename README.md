@@ -38,15 +38,10 @@ Hello microverse is the first project in microverse.
 
 <details>
   <summary>HTML</summary>
-  <ul>
-    <li><a href="NA">NA</a></li>
-  </ul>
 </details>
 <details>
   <summary>CSS</summary>
-  <ul>
-    <li><a href="NA">NA</a></li>
-  </ul>
+  
 </details>
 
 ### Key Features <a name="key-features"></a>
@@ -57,8 +52,6 @@ Hello microverse is the first project in microverse.
 (<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
 
   > None
 
@@ -98,9 +91,9 @@ To run the project, execute in live server.
 
 👤 Solomon G. Kidanu
 
-- GitHub: [@Solomon](https://github.com/solog0039)
-- Twitter: [@Solomon](https://twitter.com/Solomon57320119)
-- LinkedIn: [Solomon](www.linkedin.com/in/solomon-kidanu-62a994232)
+- GitHub: [Solomon](https://github.com/solog0039)
+- Twitter: [Solomon](https://twitter.com/Solomon57320119)
+- LinkedIn: [Solomon](https://www.linkedin.com/in/solomon-kidanu-62a994232/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
