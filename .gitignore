@@ -1,5 +1,8 @@
+test.md
 # Object file
 *.o
 
 # Ada Library Information
 *.ali
+# .gitignore
+node_modules/
